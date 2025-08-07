@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Linear Gradient</title>
+    <link rel="icon" type="image/png" href="./icon.jpg">
+    <link rel="stylesheet" href="./linear.css" />
+  </head>
+  <body>
+    <!-- Color gradient visual display section -->
+    <div class="linearGradient">Linear Gradiant</div>
+    <!-- The main part -->
+    <div class="main">
+      <div class="box1">
+        <p>Line-Slider</p>
+        <!-- Percentage meter bar for color gradient -->
+        <div class="line">
+          <div class="circle1 circle"></div>
+          <div class="circle2 circle"></div>
+        </div>
+        <hr id="line-hr" />
+        <div class="sectionDeg">
+          <div class="gradient-box">
+            <p>Gradient</p>
+            <!-- Circle part of the protractor -->
+            <div class="main-circle">
+              <div class="little-circle"></div>
+            </div>
+          </div>
+          <!-- Gradient and shape type selector section -->
+          <div class="selection-box">
+            <p>Select type:</p>
+            <div class="selecet">
+              <button type="submit" class="selectBtn" id="btn1"></button>
+              <button type="submit" class="selectBtn" id="btn2"></button>
+              <button type="submit" class="selectBtn" id="btn3"></button>
+            </div>
+          </div>
+        </div>
+        <!-- Color gradient code display section -->
+        <p class="codeHead">Code linear gradiant color</p>
+        <div class="coderBox"></div>
+      </div>
+      <hr />
+      <!-- Gradient color selector section  -->
+      <div class="box2">
+        <label for="color1">First Color</label>
+        <input type="color" class="colorinput" id="color1" />
+        <label for="color2">Second Color</label>
+        <input type="color" class="colorinput" id="color2" />
+      </div>
+    </div>
+    <script src="./linear.js"></script>
+  </body>
+</html>
