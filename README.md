@@ -30,7 +30,7 @@ JavaScript (Vanilla)
 
 Installation and Run
 1. Clone or download this repository:
-git clone https://github.com/amirhosein-Frontend/linear-gradient-generator.git
+git clone https://github.com/amirhosein-frontend/Linear-Gradient-Generator/
 2. Open the linear.html file in the browser.
 
 
@@ -39,4 +39,3 @@ This project is released under the MIT license.
 
 🙌 Made by
 amirhosein-Frontend
-ۀ
