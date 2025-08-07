@@ -4,7 +4,7 @@ Simple and beautiful tools for creating colors (linear and radial) with
 the ability to select colors, angles, color locations, and copy the final code.
 
 Demo Project
-//////////////////
+https://amirhosein-frontend.github.io/Linear-Gradient-Generator/
 
 ✨ Features
 Choose two colors for the gradient
